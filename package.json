@@ -1,0 +1,19 @@
+{
+  "name": "pract_2",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "pract_2": "file:"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.11"
+  }
+}
